@@ -35,6 +35,8 @@ img {
 }
 
 *:focus {
+    outline: 2px dashed #EA625C;
+    outline-offset: 3px;
 
 }
 
